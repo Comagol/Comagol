@@ -38,7 +38,6 @@ Currently expanding my skills in the **MERN stack**, **TypeScript**, and **Oracl
 ---
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Comagol&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comagol&layout=compact&theme=radical&hide_border=true)
 
 ---
@@ -101,7 +100,6 @@ Actualmente profundizando en el stack **MERN**, **TypeScript** y en tecnologías
 ---
 
 ### 📈 Estadísticas de GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=Comagol&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comagol&layout=compact&theme=radical&hide_border=true)
 
 ---
