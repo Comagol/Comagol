@@ -4,8 +4,6 @@
 Passionate about building functional, simple, and detail-oriented digital experiences.  
 Currently expanding my skills in the **MERN stack**, **TypeScript**, and **Oracle APEX**.
 
-![Francisco Comabella – Full Stack Developer | MERN | TypeScript | Oracle APEX](https://github.com/Comagol/Comagol/assets/placeholder/banner-readme.png)
-
 
 ---
 
