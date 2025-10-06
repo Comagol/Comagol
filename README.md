@@ -54,11 +54,6 @@ Currently expanding my skills in the **MERN stack**, **TypeScript**, and **Oracl
 📧 [comabellafrancisco@gmail.com](mailto:comabellafrancisco@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/francisco-comabella-22a61620b)
 
----
-
-> “Well-thought-out code is a form of respect for whoever uses it next.”
-
----
 
 ## 🇪🇸 En Español
 
@@ -116,6 +111,3 @@ Actualmente profundizando en el stack **MERN**, **TypeScript** y en tecnologías
 📧 [comabellafrancisco@gmail.com](mailto:comabellafrancisco@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/francisco-comabella-22a61620b)
 
----
-
-> “El código bien pensado es una forma de respeto por quien lo usará después.”
