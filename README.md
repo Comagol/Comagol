@@ -52,7 +52,7 @@ Currently expanding my skills in the **MERN stack**, **TypeScript**, and **Oracl
 ### 📫 Contact
 📍 Buenos Aires, Argentina  
 📧 [comabellafrancisco@gmail.com](mailto:comabellafrancisco@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/francisco-comabella(https://www.linkedin.com/in/francisco-comabella-22a61b20b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+🔗 [LinkedIn](https://www.linkedin.com/in/francisco-comabella)https://www.linkedin.com/in/francisco-comabella
 
 
 ## 🇪🇸 En Español
